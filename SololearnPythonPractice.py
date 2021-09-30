@@ -5,7 +5,7 @@ print(2*68)
 #Project № 1
 print(((1*2)**30)/100)
 
-#Practice project № 2
+#Practice project № 2 
 first=int(input())
 second=int(input())
 print(first+second)
